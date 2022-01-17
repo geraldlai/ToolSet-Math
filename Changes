@@ -1,6 +1,9 @@
 Revision history for ToolSet-Math
 
 {{$NEXT}}
+        - Update Perl minimum version to 5.22.0, as this module was intended
+          to work with POSIX 1.53 and above. Also update minimum versions
+          of other core modules bundled along with perl.
 
 1.001  2021-06-27 17:11:17 PDT
         - Initial release.
